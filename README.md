@@ -30,4 +30,4 @@ Learning from the edge of what's possible in ML and product design
 Let’s Collaborate
 Open to freelance opportunities, AI ventures, or just connecting with fellow developers and makers. 
 
-Check out my portfolio at hideki-dev.com 🚀
+Check out my portfolio at https://hideki-dev.com 🚀
