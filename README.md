@@ -3,7 +3,7 @@ Full-Stack Developer | AI Enthusiast | Product Builder
 
 I'm a passionate software engineer with a focus on building real-world solutions using modern web technologies and AI. From logistics optimization and AI-driven property search engines to POS systems and YouTube automation, I thrive on turning ideas into scalable, production-ready products.
 
-🛠 Tech Stack
+Tech Stack
 Frontend: Next.js, React, Tailwind CSS, TypeScript
 
 Backend: Node.js, Python, Prisma, PostgreSQL, REST & GraphQL APIs
@@ -30,4 +30,4 @@ Learning from the edge of what's possible in ML and product design
 Let’s Collaborate
 Open to freelance opportunities, AI ventures, or just connecting with fellow developers and makers. 
 
-Check out my portfolio at https://hideki-dev.com 🚀
+Check out my portfolio at https://hideki-dev.com
